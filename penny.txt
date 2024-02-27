@@ -1,0 +1,324 @@
+ 2015 with the amendments to Regulation A of the Securities Act adopted in response to the Title IV of the JOBS Act. Operations expanded in 2016 as Regulation Crowdfunding (CF) was adopted in response to Title III of the JOBS Act going into effect with equity crowd funding.
+ 
+ We now have the EOS IOC coin offering of 400mill for current examples of spinning up a token.
+  
+ The current patent law in the US is first to file FTF under PL Act.  The law now gives prior art status to those who are first to file for a patent. There is 1 year protection through defensive publication for ideas that are deemed to be patentable.  If You do not secure a patent in 1 year your idea is no longer protected. 
+
+a. Nakimoto P2P Cash - Bitcoin 2 pay system https://bitcoin.org/bitcoin.pdf 
+a. FTF First to File Leahey Act 2013
+b. Equity Crowd Funding & SEC blessing through  The Jobs act of 2017 
+c. Smart Contacts, and spefically blockchaining involving smart contracts with Etherium
+d. Patent search APIs like ipstreet - API based subscription
+f. Sentiment analysis thru Futarchy -
+Gnosis - wisdom of crowds
+http://mason.gmu.edu/~rhanson/futarchy.html
+
+
+
+
+ 
+This publication works in the realm of FTF (timestamp TS) and needs to gain early funding and protection.  When the patent is being sought publicly you will have one year to file for a provision. You must then finish the full patent processing . The need to claim your idea defensively arises if your idea can generate capital or scientific use.
+ 
+If you need to license other patents, this can also be added to the blockchain to support patent delivery. If you are part of the education realm you can also participate in the private ideation process, through co-citation. All entries signalling license are available. 
+ 
+ The strict patent rules of USPO must be followed, at first. We will be faster with blockcahin and they will have to accept our willingness to cooborate. Part of the costs for filing and maintaining a patent successfully involves the help of counsel and representation (diagraming, prototypes). For this to be a seamless process, we will need managed services for basic filing systems which can be reproduced quickly and with sufficient rigor.
+ 
+  Copying something or patenting genes will probably not fly. - We have a model that will not secure trolls. (ie. pharma that is protected by patent)
+  
+ You or I may wish to file privately and secure funds for an idea to relatively easily get to a provisional status of protection before going public. (we secure your spot in line with provisional entry for  year protection)
+ 
+ We generate a private fund that is guaranteed a return of all successful packages they load into the stream. Investors buy in blocks or categories, in order to help facilitate the research and formulation of ideas. THey may be fully funded by friends and family or entirely public. Your idea only becomes public, but is still protected until you generate funds in the maketplace to secure a proper description of your patent idea. 
+
+The Primary marketplace (PMP) will encourage investors to get in early, allowing investors to gain early incentives for funding ideas that have gone public. Initially, we would like to record the idea by uploading voice, video, or documents and attach a timestamp to the idea. This service serves as a time capsule for your idea and is stored for quick response in a wiki like front end. 
+
+ We will also sell private blocks of patent ideas like funds (energy, science) hedging against a pool of participants that are successful.  The need to claim your idea defensively arises if your idea can generate capital or scientific use. You must adhere to current IP law standards but this does not mean you cannot file for a patent if the need to claim your idea defensively arises.
+ 
+ when the patent is being sought you will have one year  to file for a provision and wait for the full patent process. This is the time to generate funds by accepting investors to be guaranteed returns for the patent if it is successfully prosecuted and turned into licensable property.
+ PennyPat gives you a secure platform to claim and fund your patent application process from the time you go public with an idea. If you wish to keep your idea private you may store your original idea on TS blockchain.
+ 
+
+
+To prosecute a patent fully you must recognize the law and comply with the application process. may require lawyers and patent clerks be financially difficult situation. After understanding if your idea is patentableGoing through the patent process is difficult to manage financially. 
+
+
+ The need to claim your idea defensively arises if your idea could generate capital for its production or use and you need to generate funds to prosecute the patent individually.
+ office is in world of innovation
+
+
+
+
+Securing a marketplace for ideas. Time-stamp authorization of ownership recorded in secure blockchain and associated with smart contract verification of the entity and its submittal. Platform Offers defensive publication of ideas for private market investment.  We serve accredited grant programs as database for ideas to have private monies support students and academic institutions. 
+
+
+
+
+Using basic model for equity crowdfunding, if JOBS act allows non-accredited investors in marketplace the ideas can be offered to the public.
+
+
+
+Incentive
+Leahy-Smith America Invents Act (AIA)  March 16, 2013 creates a first-to-file requirement for patents in the US. Incentive for entites to claim ownership of ideas. In order to protect your idea you need to fund the patent pending process within 1 year. Campaings to generate funds for this process are not currently available. Through the protection of your idea you are inclined to get your patent in first. Prior art may be defined very broadly as the entire body of knowledge from the beginning of time to the present. You are enticed to create prior art information for the protection of ideas. 
+
+ 2015 with the amendments to Regulation A of the Securities Act adopted in response to the Title IV of the JOBS Act. In 2016 as Regulation Crowdfunding (CF) was adopted in response to Title III of the JOBS Act going into effect
+
+http://www.tms.org/pubs/journals/jom/matters/matters-9106.html
+
+Patent Search - Prior art may be defined very broadly as the entire body of knowledge from the beginning of time to the present
+
+102. Conditions for patentability; novelty 
+��(a) NOVELTY; PRIOR ART.�(1)A person shall be entitled to a 
+patent unless� the claimed invention was patented, described in a 
+printed publication, or in public use, on sale, or otherwise 
+available to the public
+			  -(2) the claimed invention was described in a patent issued 
+under section 151, or in an application for patent published 
+or deemed published under section 122(b), in which the patent 
+or application, as the case may be, names another inventor 
+and was effectively filed before the effective filing date of the 
+claimed invention
+
+(b) EXCEPTIONS.� 
+��(1) DISCLOSURES MADE 1 YEAR OR LESS BEFORE THE EFFECTIVE FILING DATE OF THE CLAIMED INVENTION
+Who would use the system?
+
+[e]arly public disclosure is a linchpin of the patent system. As 
+between a prior inventor who benefits from a process by selling its 
+product but suppresses, conceals, or otherwise keeps the process 
+from the public, and a later inventor who promptly files a patent 
+application from which the public will gain  a disclosure of the 
+process, the law favors the latter. See Horwath v. Lee, 564 F.2d 948, 
+195 USPQ 701 (CCPA 1977).
+20
+
+We intend that if an inventor's actions are such as to constitute prior 
+art under subsection 102(a), then those actions necessarily trigger 
+subsection 102(b)'s protections for the inventor and, what would 
+otherwise have been section 102(a) prior art, would be excluded as 
+prior art by the grace period provided by subsection 102(b). Indeed, 
+as an example of this, subsection 102(b)(1)(A), as written, was 
+deliberately couched in broader terms than subsection 102(a)(1). 
+This means that any disclosure by the inventor whatsoever, whether 
+or not in a form that resulted in the disclosure being available to the 
+public, is wholly disregarded as prior art. A simple way of looking at 
+new subsection 102(a) is that  no aspect of the protections under 
+current law for inventors who disclose their inventions before filing 
+is in any way changed
+
+Bridging gap between pure VC angelist.co & crowd sourcing kickstarter
+
+Follow kickstarter clause to give back money if target is met and and within one year the project fails to secure a patent process -
+
+ the first to bring a project to provisional patent will get up 
+ will get the right to more investment into the program.
+You will also get more roi % to increase for the prosecution of the patent.
+4% and we split 50/50
+5% and we split 50/50
+
+888-472-8386  4 patent
+
+Alternate options: Windfall or higher roi
+
+Communities that self-support based on game theory assurance contract Negotiate irrevocably binding contracts with prepay communication. 
+
+Ultimatum game split of dollar = Nash Equalibrium Accepts 100-x but only this.. with law it is putting risk. 
+
+Needing secondary market with subgame-perfect strategy. Renue the idea a year out prior to this all ideas that do not get investment go out on a secondary market after 
+
+to retain ultimate ownership, the secondary market is open to strategic investors who must negotiate a fair value for the production of the idea from the market.
+
+Why not sell to these guys.. because you are bound to wait the whole time through 1 year, or you have the right to market and to sell to special interest only if you are in secondary market and are valued by a betting market.
+
+Subgame equilibrium must be watertight logically. How to force ownership and investment.. because the market forces will push up the "best" ideas.. Those that escape are up for auction. 
+
+Side payment adam xa-t eve xe+t )t is to market)
+sell your idea or get donations you are safe in the network, and the private money can pay for your deed having still to pay marketplace fees. 
+
+
+we need to make it risk neutral by forcing ownership of full patent to sell..
+
+the ultimatum game is complete ownership - this is your end goal.  The coalitional form..everyone wins if the ultimatum is achieved. Is this supported by a buy-sell-trade game? (v(s))coalition..
+
+If someone develops and idea that makes it through the market without selling provisional..THey are restricted to a time in which the choice can no longer be protected. They make a subgame effort to sell on open market with intent to retain ownership, there is no strong market to get ideas here unless, after 6 months the secondary market opens as a betting choice to sell across to private money. 
+
+, where we tax the special investment, based on lawful purchase price. What if someone sells and idea worth 10 billion.. for 1500$the secondary market should be used to only finsih the job of full patent. no marketing or selling of the product before the time is up..(A tag must go with every idea..that selling privately is allowed in secondary market but - it is contracted to buy the patent from the original idea owner. For their right to sell directly to them, and therefore be within the network. 
+
+ 
+
+
+Waiting for the 2nd market to open and get someone to enforce the rules of the game. So that the person is not susceptible to having people force out their ideas from them.  Larger share for investors on secondary market. Investment with preference to the line in which you invest in the provisional first step. - to make an idea more attractive to the market..not to be leased to VC after 1 year is up. 
+
+Protecting the initial investment..threshold..for risk to protect 20k investment..or any investing 
+
+once provisional is acheived you are locked into the market until it is deemed necessary to go on secondary market - offers may be made to get idea to prosecution,,,then pay market share.
+You can market your idea - essentially asking for money as soon as you sign up for the secondary market.
+
+Provisional rights - http://www.iptoday.com/issues/2010/10/provisional-rights-in-patent-applications.asp
+
+At time of ownership in track FTF a provisional license, your goal is to still get full ownership, and for 6 months you must stay within network for investment. (what time period do you set) trying to get to equilibrium of best strategy is to be come lawfull international owner. Bringing to market ideas
+
+seriousness factor - you have to be serious but do you trust, possibly need a few signatures.. and so work is done on basis of marketability. 
+
+
+Within social contract/? market forces
+
+
+defending the submarket with threat tactics. That all ideas in the market that pass are still in-effect attched to the original owner. What makes it possible for you to hold your idea against a copycat...esp. someone in another country?  would your patent office hold up the international patent?
+
+
+
+ on the need to get something or nothing on secondary market. - we need to ensure the original system outcome of FTF. 
+You have no bargaining power in all in take-it-or-leave-it
+
+ You will have the right to collect funds for a provisional or full prosecution.  
+
+Minimax theorum - The co-endeavor is a zero sum loss based on what you are willing to risk - One must get less --> this is why we want to main investors to pay the proceeds and a % of the sale. They are getting ideas that patent. written into the by-laws are agreements to pay the market for its work. (the person goes rouge and begins to market their idea in any fashion)
+
+Relevant payout is a future date of which tracking must be done through intelligence and courts.
+
+Entitlement to the original idea is always recorded, protections are not always served, if there is a need to route the process with contracts in place - it is much like the piracy online - that with serious consequences.trial by jury. or mitigation of breach of contracts social and lawful ownership. 
+
+what if someone exposes another person/entities idea and publishes this online? in our network. secrets. we will have to review every entry into the system of buying by checking vilidity and describing the idea. where does our judgement come in looking to legally bind that person to their role in the operation of building the idea to market. 
+
+whistleblower - these might post ideas of nature we do not want public. public sniping is anti-property. Ownership,  what happens to ownership of idea after the time is up? we need to take precautions to warn people but also protect their idea so that an auction happens and people can buy idea on a market. 
+
+We provide support for the provisioning proces by making working defensive publication and then getting on fast track to provisional (Initial Filing) as soon as possible.  One can invest in their own idea as well which nullifies special % right to early adopter. One can sign a contract with family, or friends which frees them of ownership as a Gift or charity & Write off. Preserving the % of stock left intact..or allows investment(a single option..
+
+
+..Whoever writes the check gets rights to qualify for provisional threshold, if this takes multiple investors they are entitled to some share of the initial FTF status.
+
+Charity campaigns
+If the first to file is acheived
+
+Early adopters will get incentive to jump in as an early investor for FTF so that their share is higher for the rest of investment. This will help to jumpstart the projects on an individual basis. It will bring more ideas to a state of protection. 
+
+Filing patents seems to be ancillary in the effect that some ideas will only need to be prosecuted by they time they are created. 
+
+(ideas will so strongly want to be made, relevant sub sections and sub licenses autonomusly allows scientists and citizens to share in the process of innovation - If anonymous there will be more willingness to cooperate within a system of rights and license carried by the smart contract - where by we can add to ideas by automatically licensing, and sharing updated information.  
+
+
+different levels...
+
+We can learn all about the process beginning to build relationships and some sort of holistic understanding of the playing field to the degree that we make our service after what we would recommend methods for success to file. To sell or produce an idea. System must be failsafe at so many levels. The company that owns the operatiion of the idea marketplace will be a non-profit - serious about security and risks averted at any level in the operations. That it needs more than widespread public support. It will need ultimate security, and cannot remain privately held like the nasdaq, where the informatrion flows into a broader network of selling options.  
+
+IN a place where it is truly important to invest with a return, there is a way the ideas have been either sponsored or otherwise noticed as a potoential solution to a problem. the more imminent the alteration or process, this is what will win. Betting markets through Gnosis will also build concensus and hedging system on blocks in the chain.
+Must be completely secure fighting financial and corporate fraud
+Market place must generate overwhelming patent worth,
+ 
+
+
+you just need an even playing field to participate. Wouold a buffet get behind this?
+what is the need? the marketplace is it just a simple investment generation machine? Can this generate a potential winfall for the easment of policy, or does it potentially conflagerate an ailing system. Can it add a sense of balance to the community, the larger human potential. In an altruistic way there is not a means to prosecute, but as a subgroup or class of the patentable idea realm we can better understand the direction of advancement if any in focusing on parts of the needs system. 
+
+
+Can activists create 
+Is there a component that we need as human species so that we are struggling for future perfection?
+You can petition your friends family and a whole host of a network of donations. 
+
+Who gets paid is a limited system of investment and return. If the market grows, to what extent if things are moving faster, the rate at which payout happens is quicker. The ability to adapt.. Lets say you have something greater at stake, possibly having a hand in changing the world with a licensing of ideas (iteration) through the blockchain... to the level that it is not as (competittive as)  singular entities  (limited to singular entiries that would provide the needs system. The incentive to then market ideas is to have a licensing mechinism, and subcontract defined by the blockchain. Those companies, people and groups who would take the ideas instead of pushing to land-grab, and a host of possible negative outcomes we instill an unbreakable easy flow system for patents to be bought and sold. 
+
+No information source isolated or not can simply act with complete impunity of the real global situation. That the rules are more fuzzy in the level of true sharing of information. There needs to be a global system to handle this, this is done normally through corporations for control and ownership of production. with PennyPat it is public, anonymous representation that drives the process. 
+
+
+dismantle the old competition rules?  - 
+
+how were farming techniques passed to the people throughout histories time. who was in control of the information?
+
+
+
+
+
+china car. 
+
+What is copyright law in a nutshell?
+Ethics--> Nothing unethical or against the law. owner takes full responsibility of ownership within the law. 
+
+
+
+
+
+back to who would participate with 1 year or less risk.. is there any possibility that within 12 months a bitchen idea doesnt get sponsored? look at the case of the h2o buggy. 
+
+
+
+Of those interested to produce something there would first have to be a safe and proven place to do business. A success model needs to be in place for the individual. Removing the barriers to  prosecute any transformation of data that produces a useful, concrete and tangible result and is patentable.
+
+The reference...
+
+
+ Risk ownership within 1 year.  Auto time stamp at that time to show the original buyer gets preference in the system. By something like a copycat, who merely wants to take ideas, we have our system hold the information, as a sale. To interested buyers only after 1 year. 
+ 
+ It is putting the idea on secondary market. 
+ THe idea becomes a part of the marketplace...the truely patentable stuff will get picked up. The % of payout if unsuccessful is somehow relative to the price paid for the idea... 
+ 
+ What drives the sale ? Auction? 3rd party, marketplace, betting....(buying the shares of the company at this point) idea...if you store the ideas indefinitely and give the original creator ultimate ownership...this can be the same as the patent office. (*Our patent search checks against the regular PO and also our new blockchain. If there is no PO entry we do not notify them our own or more in line with market pressure as you remain anonymous and your idea is added into the expert chain for further study. You can market your ideas... Who would store them in the system. Like a Google database. 
+ 
+ In the process of securing any one piece of this puzzle so many pieces of information will have been passed. It is not uncomplex. But market pressure must have a component. So that you are in with the lawful interpretation. No one owns the flow of ideas. If this is the case the marketplace will not work. 
+ 
+ 
+
+
+A person is entitled to prior art for 1 year even if they disclose publicly their idea
+
+those who wish to invest do so with the mentality that they will only "bet" on what they think will actually be patentable and marketable. The important impetus to the operation is that you are only investing at a level to get the patent started or otherwise to full prosecution. 
+
+the initial need to file should this be the most important aspect of beating the 1 year statute. We would need to some how facilitate the transaction and help model, write and present the idea. still only those who are serious enough to finish this will want to go public with their idea as it takes a small amount of work to represent the idea in a working model. portfolio look ?
+
+
+Who do we end up paying to get these patents prosecuted? Lawyers, and court fees. this is rather nominal considering a big payout. Great or best defense of ideas based on the negotiated fees for the entire operation like giving out the bids for people to take these cases up. it falls into your lap it is a warm lead and you may prosecute it to the extent of the law. given that you either buy in and sign contracts..
+
+Seeking marketing we would need to get something to actively market or rather the marketplace is sterile.. it will not put an idea ahead of another only report the news.. but you have one year so how do we guarantee anything.. in the end we do not want patent trolls or VC only to help fund these smaller transactions.
+(middle man to angel and trolls?  that way you have marketing.. can you deny specific people from investing? on a personal basis.. for example the in ability to purchase more than 20% of the patent fees..  this might stop monies from flowing.. the point is you still have the owners of the product being helped to get their share but they could just sit and wait for the idea to fall off the map...)
+
+Generating the $$ incentive what does payout look like? the investor, - casual  and serious and specified... 
+
+What is the incentive to create good patents for sale. the merits of the ideas?  is there a classification system  that can protect groups of patents.. ideas or industries. so that searching becomes easier.  the educational patent the biotech, energy...
+
+Ideas must not be sniped from the marketplace.  Adding to the international body of searchable patent ideas with publication , this can be exploited by other countries or trolls. There is inherent risk.  We can attempt to mitigate by auto updating your ownership of  your idea in our system keeping it limbo. Then if you posit an idea and keep it in the system to thwart efforts to build an idea. 
+
+
+companies seeking some sort of rebuff for an idea "stolen" during a time of contract. how does this get handled. lets say you have 40k invested in the market.. suddenly your investors are out an idea.. shorted.. somehow legally we might need to get people their money.. in this case how do we get the company, courts and person aligned to get our investor X paid back. a long litigation whcih again costs a lot of money? we need to have protections. of some sort as the people who steal the ideas"" will not be able to pay back all of the investors. This happens enough and no one wil want to invest...it 
+
+Part of the risk it that you can buy into an idea that is someone elses.. We can do our due dilligence and confirm by petitioning prior art and USPTO application work.
+
+would this uncover something like the employers from firing someone for doing their dreams??  if so it would seem grounds for real money to be made, and publicity. we can protect all monies in a trust signed off to lawyers who must fight for cases based on little to no guarantee. 
+
+
+how much do lawyers profit from prosecuting patents can they also themselves invest in the projects so that if they take on cases they will get paid a portion of proceeds. 
+
+can we do a sort of clss action prosecution within the network.. for provisional first ?? what does this do for protection.. is there an impetus to get the money required faster ... for the fees and the prosecution?  do we then work with a group of lawyers who are working as contractors.. how skillful do they need to be?  
+
+
+everyone must get paid out
+
+investors..us ..lawyers...courts...idea personnnnnnnnnnnnnn
+\
+
+also protections.. we cfan have VCs picking up the tab with rules to the engagement making the market place thrive and certain caps to the level of return unless completely sold..the inital market and ownership is confirmed..and the ability to sell a fully prosectued patent or to sell the licensing.. or copyright or ??trademark?? copyrighta process...
+
+VCs get no right to finidshed goods for the investment. they can  get the total payout on successful prosecution...
+
+if idea is sold licensed or produced there needs to be a structure for the proper people to get their cut...
+
+sell 100k idea.. idea person just made 10k because he must pay back the initial investment.. or you make the person buying the idea responsible for the idea Plus the costs for prosecution..
+lets say the idea is fully prosecuted.. then does not sell??bamboozled.. the payment for 60k is now gone. and we have to reinvest in marketing the idea.. or take a writeoff.. but the person cannot be written off.. they need their initial investment money back.. 
+
+if we facilitate a deal we can take a cut from the middle. the marketplace needs to have the bank money.. so maybe in the form of backed loans.. do we need collatoral to back the negative surplus of $$..if the system is in control of a commoity that can back its worth.. the ideas themselves are the payout for involvement...
+
+Person is responsible for paying back the investor his amount of investment plus 
+return: a + a/10-15% + logb   every dollar worth 1/10 of its worth of strike price initial 
+
+might take 2-3 years.. to get 50% ROI.. and @ 60k 10% back is 6k plus 1/10 every dollar of strike price investment 24000 with strike of 2.50$ or %2 sale of patent and 3% for us....
+1 million dollar product.   @ 10million $ product sale you get 200,000+ 10 % of initial investment or 330%X Roi
+equation... modeling the cost/payout.. 
+ 
+
+
+the benefit needs to come in the security of the system to GEnerate funds and to skillfully present the data (ideas) worth investment. 
+
+attracting the right ideas will require a quick and dirty very clean defenisive publication arm to create a simple model for the ideas to thrice. it is a low risk option unless you have an idea and truely want to produce it. no one has 60 k just to protect and market their million dollar idea first getting through the patent process. so we facilitate this transaction
+
+how we make the money on this is by keeping costs very low. storing the ideas in our sustem. having a sort of private database of your idea.. knowing that the law explicitly does not prostect you past 1 year.is this merely of it becoming public as it is interpreted today.. so that we may have the need to show the redcord of thought to the courts. 
+
+generating the money from investor let the market do the work. It will grow with each successful operation. the # of ideas that are marketed. marketable.. what do we start our operation around how many people need to be invested with the pros[[ect pf actually getting funding within a year and - what is their guarantee?
+
+the investment has to be great enough for the persons in the market to act outside of their sheer want to be helpful. therefore risk must be rewarded with some sort of payoff. this is where you get erly investors taking more and more money pitting it into the system. what is their protection .. like a put or stay price in the market.
